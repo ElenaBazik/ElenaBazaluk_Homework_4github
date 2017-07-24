@@ -9,14 +9,17 @@
 	float:left;
 		background:#791C16;
 	}
-img{
-	width:200px;
-	height:200px;
-	float:left;
-}
-.wrapper:nth-child(2){
-background:#791C16
-}
-.white{
-	background:none;
-}
+	.img{
+		background: none;
+	}
+	img{
+		width:200px;
+		height:200px;
+		float:left;
+	}
+	.wrapper:nth-child(2){
+	background:#791C16
+	}
+	.white{
+		background:none;
+	}
